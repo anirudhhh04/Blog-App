@@ -1,3 +1,3 @@
-## Blog:
-A simple blog webapp built with React, allowing users to create, view, and delete blog posts effortlessly.
+## Blog-App:
+A simple webapp built with React, allowing users to create, view, and delete blog posts effortlessly.
 
